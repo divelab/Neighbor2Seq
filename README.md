@@ -41,7 +41,7 @@ CUDA_VISIBLE_DEVICES=0 python main_inductive.py --model=posattn --lr=0.002 --K=1
 <img src="https://github.com/mengliu1998/Contents/blob/master/Neighbor2Seq/result_papers100M.png" width="600" />
 
 * Results on `ogbn-products`
-<img src="https://github.com/mengliu1998/Contents/blob/master/Neighbor2Seq/result_papers100M.png" width="600" />
+<img src="https://github.com/mengliu1998/Contents/blob/master/Neighbor2Seq/result_products.png" width="600" />
 
 
 
