@@ -1,7 +1,7 @@
 # Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences
 This repository is an official PyTorch implementation of Neighbor2Seq.
 
-[Meng Liu](https://mengliu1998.github.io) and [Shuiwang Ji](http://people.tamu.edu/~sji/). Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences(coming soon) [SDM2022].
+[Meng Liu](https://mengliu1998.github.io) and [Shuiwang Ji](http://people.tamu.edu/~sji/). [Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences](https://arxiv.org/abs/2202.03341) [SDM2022].
 
 ## Requirements
 * PyTorch
